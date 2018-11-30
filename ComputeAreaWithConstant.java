@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class ComputeAreaWithConstant{
 	public static void main(String [] args){
-		final double PI = 3.14259;
+		final double PI = 3.14159;
 
 		Scanner input = new Scanner(System.in);
 
